@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijaya Kumar</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🔭 I’m currently working on developing a [Food Ordering App]([https://portfolio-vj.web.app/](https://github.com/Vijay07vj/swiggy_react))
+- 🔭 I’m currently working on developing a [Food Ordering App]([[https://portfolio-vj.web.app/](https://github.com/Vijay07vj/swiggy_react)])
 
 - 🌱 I’m currently learning **ReactJS , Redux, Javascript**
 
